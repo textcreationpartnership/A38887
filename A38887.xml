@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Exact and perfect relation of the proceedings of the army under the command of Sir Thomas Fairfax, from the sixth of this instant July to the eleventh of the same wherein is expressed the particulars of the victory obtained by the Parliaments forces over Goring, neer Langport in Sommersetshire : dated at Sir Thomas Fairfax quarters at Middlesey, 4 miles from Bridgewater, July 11.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38887</idno>
+            <idno type="STC">Wing E3607</idno>
+            <idno type="STC">ESTC P1047</idno>
+            <idno type="EEBO-CITATION">12595706</idno>
+            <idno type="OCLC">ocm 12595706</idno>
+            <idno type="VID">64049</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38887)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64049)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 316:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Exact and perfect relation of the proceedings of the army under the command of Sir Thomas Fairfax, from the sixth of this instant July to the eleventh of the same wherein is expressed the particulars of the victory obtained by the Parliaments forces over Goring, neer Langport in Sommersetshire : dated at Sir Thomas Fairfax quarters at Middlesey, 4 miles from Bridgewater, July 11.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Samuel Gellibrand,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>July 14, 1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published according to order"</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fairfax, Thomas Fairfax, --  Baron, 1612-1671.</term>
+               <term>England and Wales. --  Army.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64049:1"/>
+            <pb facs="tcp:64049:1" rendition="simple:additions"/>
+            <p>An Exact and Perfect RELATION OF THE PROCEEDINGS OF THE Army under the Command OF Sir <hi>Thomas Fairfax.</hi>
+            </p>
+            <p>From the ſixth of this inſtant <hi>July,</hi> to the eleventh of the ſame.</p>
+            <p>Wherein is expreſſed the particu<g ref="char:EOLhyphen"/>lars of the VICTORY obtained by by the PARLIAMENTS Forces, over <hi>Goring,</hi> neer <hi>Langport</hi> in <hi>Sommerſetſhire.</hi>
+            </p>
+            <p>Dated at Sir <hi>Thomas Fairfax</hi> Quarters at <hi>Middleſey,</hi> 4 Miles from <hi>Bridge<g ref="char:EOLhyphen"/>water, July</hi> 11.</p>
+            <p>Publiſhed according to Order.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Samuel G<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>llibrand, July</hi> 14. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:64049:2"/>
+            <pb n="3" facs="tcp:64049:2"/>
+            <opener>
+               <dateline>
+                  <date>J<g ref="char:V">Ʋ</g>LY 7.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>Fter the relief of <hi>Taunton,</hi> and our marching to <hi>Crookhorn,</hi> where we reſted the Lords-day, <hi>July</hi> 6. Although our long march, and the wants of our Souldiers challenged ſome refreſhment, yet the Generall, and the reſt of the Officers, could not with patience endure an Ene<g ref="char:EOLhyphen"/>my ſo near us; and therefore the party from <hi>Taunton</hi> were ſent for, who came to <hi>Podderton</hi> that night, Colonell <hi>Maſſey</hi> about <hi>Ilmiſter:</hi> The Generall ſeeing it very hazardous to free a paſſage at <hi>Longlode</hi> or <hi>Ilcheſter,</hi> march<g ref="char:EOLhyphen"/>ed to <hi>Evil,</hi> thinking to paſſe the River there, or at <hi>Mud<g ref="char:EOLhyphen"/>ford</hi>-Bridge. A little before our coming to <hi>Evil, Sher<g ref="char:EOLhyphen"/>bone</hi> men had broken the Bridge, which was preſently made up; but as it fell out, we had no uſe of it, for the Enemy quitted <hi>Ilcheſter,</hi> a Garriſon of theirs, and left us free entrance on Tueſday, where we quartered on Tueſday night. Little of moment fell out theſe two dayes, <hi>Goring</hi> dancing from one ſide of the River, to the other; ſo that our Officers that came from <hi>Taunton,</hi> had the more free liberty to congratulate our happy ſucceſ<g ref="char:EOLhyphen"/>ſes; ours at <hi>Naſeby,</hi> which was a complete victory, their's at <hi>Taunton,</hi> which was more then a deliverance; for they continually affronted the enemy, took from him 400 Horſe at ſeverall times, and ordinarily made bold with their Guards. The poor Souldiers were much afraid, in regard of our delay of relief, that they ſhould have had another <hi>Corniſh Hugg,</hi> as they call'd it, but it pleaſed God to prevent their fears, by this ſeaſonable Mercy.
+<pb n="4" facs="tcp:64049:3"/>They loſt a Gallant man, Colonell <hi>Floyd,</hi> a Religious ex<g ref="char:EOLhyphen"/>perienced Souldier, and Lievtenant Colonell <hi>Richbell,</hi> a ſtout honeſt man, and ſome few Officers beſides; ſome that were hurt, are recovered, as Major <hi>Marſhall,</hi> Major <hi>Read.</hi>
+            </p>
+            <p>This day Colonell <hi>Butlers</hi> Regiment, commanded by Major <hi>Fincher,</hi> Quarter-maſter Generall of our Horſe, came near us, and in its march from <hi>Barkley</hi> Caſtle to us, did very good ſervice. Firſt at <hi>Durſley,</hi> they entertained Sir <hi>Charls Lucas</hi> coming to beat up their Quarters, kill'd the Captain of the Forlorn-Hope, after that, charg'd the Party with two Troops, kill'd ten, whereof two Captains, took 39 priſoners, hurt Sir <hi>Charls Lucas.</hi>
+            </p>
+            <p>From thence they came to <hi>Highworth,</hi> where the Ene<g ref="char:EOLhyphen"/>my from <hi>Farington</hi> had entered the Town, whom he beat out, and delivered to the Governour, the quiet poſſeſſion of his Garriſon. From thence to the <hi>Deviſes,</hi> where they took ſome Horſe, and ſo to <hi>Dorcheſter,</hi> where they over took ſome of <hi>Sherborne</hi> Horſe; and ſo came to us very ſeaſonably, being through Gods providence, neerer an engagement then we expected.</p>
+            <p>
+               <hi>Wedneſday, July</hi> 9. We divided our Force, and over<g ref="char:EOLhyphen"/>look'd the danger through our earneſtneſſe to diſcover and diſlodge <hi>Goring;</hi> but the danger of diviſion was the leſſe, in regard that Colonell <hi>Maſſey</hi> had many Dragoons, at leaſt 2000, and an incloſed Countrey: Whereupon Col. <hi>Maſſey</hi>'s party, with the addition of Col. <hi>Pyes,</hi> and Col. <hi>Sheffeilds</hi> Regiments, and all our Dragoons, but one Troop, were ſent on the other ſide the Water, be<g ref="char:EOLhyphen"/>twixt <hi>Taunton</hi> and <hi>Langport,</hi> to amuſe the Enemy, and take advantages, if he might; which he very diligently did, and came upon a ſtrong Quarter of the Enemies about <hi>North-Curry,</hi> took them before they were well ready: charged, took 9 or 10 Colours, 4 Captains, ſome
+<pb n="5" facs="tcp:64049:3"/>Lievtenants and Cornets, and about 200 men, and more Horſes; with very little loſſe, onely Col. <hi>Cook</hi> ſhot in the face, and Col. <hi>Buller</hi> hurt in the arm. We were not idle on the other ſide, but skirmiſhed at a Paſſe a mile from <hi>Langport,</hi> took one Colours, which led the way to many more the next day.</p>
+            <p>On <hi>Wedneſday</hi> night, we quartered at <hi>Long-Sutton,</hi> and on <hi>Thurſday</hi> morning, the tenth, a <hi>Councell</hi> of <hi>Warre</hi> was called, whether to draw up before <hi>Langport,</hi> and do fur<g ref="char:EOLhyphen"/>ther as opportunity might be, or withdraw toward <hi>Sher<g ref="char:EOLhyphen"/>borne</hi> and <hi>Evil,</hi> to refreſh our men, and receive our ſup<g ref="char:EOLhyphen"/>plies of Arms, Money, and Ammunition, coming to us by Sea; but it pleaſed God to end the buſineſſe by an Alarm given us, that the Enemy had poſſeſſed the Paſſe we formerly skirmiſhed at in <hi>Peſſebury</hi>-Bottom, and ſome of their Foot appeared on the Hill: whereupon, the Forces we had on this ſide the River, were drawn forth: Of Foot, <hi>Weldens, Herbarts, Inglesbies, Forteſcues,</hi> Maj. Gene<g ref="char:EOLhyphen"/>rals, <hi>Ruſſels, Hammands,</hi> and <hi>Rainsbroughes</hi> Regiments, with Sir <hi>Hardre Wallers,</hi> &amp; the Pikes of the Generals, <hi>Mountagues</hi> and <hi>Pickerings</hi> Regiments. The Muskettiers of thoſe three Regiments together, with Col. <hi>Iretons</hi> Regiment of Horſe, being ſent on Wedneſday night to the aſ<g ref="char:EOLhyphen"/>ſiſtance of <hi>Maſſey.</hi> All our Horſe, but the three Regi<g ref="char:EOLhyphen"/>ments of Sir <hi>Robert Pye,</hi> Col. <hi>Sheffeild,</hi> and Col. <hi>Ireton,</hi> and <hi>Okeys</hi> Dragoons, who were all with Col. <hi>Maſſey,</hi> but one Troop. With theſe, we drew into the Field, about 10 of the Clock on <hi>Thurſday,</hi> and about 12 or near one, we began to diſpute the Paſſe with them; the Enemy had a Hill, and the Winde, we another Hill, they had the Paſſe and the Hedges lined before we came; we drew up our Canon, which did us very good ſervice, and made the other ſide of the Hill ſo hot, that they could not come down to relieve their men; preſently, the For<g ref="char:EOLhyphen"/>lorn-Hope
+<pb n="6" facs="tcp:64049:4"/>were commanded down to cleer the Hedges, which they did, ſeconded with <hi>Weldens</hi> Regiment, which was next them.</p>
+            <p>I need not ſay any thing of the General and Lieute<g ref="char:EOLhyphen"/>nant-General, who carried themſelves according to their wonted diligence and gallantry.</p>
+            <p>The enemy had but two Pieces of Ordnance, ſmall ones, having ſent the reſt, with moſt of their Carriages, to <hi>Bridgewater.</hi> The Paſſe being gained, the Horſe went on. Major <hi>Bethel</hi> had the honour of the firſt Charge of Horſe, who did it very gallantly, charging a Body of the enemy with a Troop, diſordered them; and being over-born with a freſh Body, retreated ſlowly a little way, to Major <hi>Diſbrough,</hi> who commands the Generals Regiment of Horſe, where he rallyed, and charged a<g ref="char:EOLhyphen"/>gain, and they with him, and put the enemy to a foul Retreat, which they never recovered. Part of their Foot, with ſome Horſe, and their two Pieces of Ord<g ref="char:EOLhyphen"/>nance, retreated into <hi>Langport,</hi> of which you ſhall have a further Account preſently. The reſt Horſe and Foot, as faſt as they could, ran toward <hi>Bridgewater,</hi> except ſome who ſcattered themſelves into Corn and Woods for their ſhelter. Thoſe that went toward <hi>Bridgewater,</hi> were earneſtly purſued by our Horſe, ſo that none of their Foot recovered <hi>Bridgewater;</hi> and very many of their Horſe, and divers Colours. The General and Lieute<g ref="char:EOLhyphen"/>nant General ſtaying with the Foot neer <hi>Langport,</hi> per<g ref="char:EOLhyphen"/>ceived the enemy drawing over at <hi>Langport,</hi> and going toward <hi>Bridgewater</hi> on the other ſide of the River. Whereupon, we found the enemy had quitted it, be<g ref="char:EOLhyphen"/>cauſe, as they ſay, the Governour refuſed to hold it without 800 men, which they could not ſpare: and for a farewell, they fired the Town to run away by the light. Hereupon, we marched into the Town with Horſe, and
+<pb n="7" facs="tcp:64049:4"/>ſome Foot, who thorow fire and water, purſued on that ſide the River. With thoſe Horſe went Lieutenant-General <hi>Cromwell</hi> and Colonel <hi>Greaves,</hi> who overtook their Foot-Colours, and Ordnance, and three loads of Ammunition, which they brought back to <hi>Langport.</hi> The Horſe, ſome of them, got to <hi>Bridgewater,</hi> ſome to a little Gariſon call'ed <hi>Burrow-Church,</hi> in the way betwixt <hi>Lang<g ref="char:EOLhyphen"/>port</hi> and <hi>Bridgewater.</hi> The General in the mean time marched on with the reſt of the Foot toward <hi>Bridgewa<g ref="char:EOLhyphen"/>ter,</hi> for the advantage of Quarters, not being willing to ſtay in that waſted place, and came that night to <hi>Middle<g ref="char:EOLhyphen"/>ſey,</hi> four miles from <hi>Bridgewater.</hi>
+            </p>
+            <p>In this Fight, the whole Foot of the enemy were di<g ref="char:EOLhyphen"/>ſperſed, killed, and taken; but few killed, thanks to hedges and heels. What Ordnance they had, were loſt, and many of their Colours taken. I cannot give a more perfect account of Priſoners: Two Colonels of Horſe, <hi>Slingsby</hi> and <hi>Heveningh<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> are taken, with <hi>Bertridge</hi> Lieu<g ref="char:EOLhyphen"/>tenant-General of their Ordnance, beſides ſome Lieu<g ref="char:EOLhyphen"/>tenant-colonels and Majors; and, as I hear, about 1200 Priſoners: and this a very cheap Victory, we having loſt no Officer, and not 20 common Souldiers, for ought I can learn: Some of Major <hi>B<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ls</hi> Troop are ſore hurt, himſelf ſhot in the right hand.</p>
+            <p>Thus hath the God of our Salvation protected and pro<g ref="char:EOLhyphen"/>ſpered us, beſotting the enemies old Souldiers, that they ſhould ſuffer themſelves to be engaged contrary to their intentions, and in the midſt of their expectation of Sup<g ref="char:EOLhyphen"/>plies to make up a formidable Army, directing us by his good providence, in the midſt of our irreſolutions: His Wiſedom was our counſel, his Strength was our Victo<g ref="char:EOLhyphen"/>ry; let the praiſe be his. Our Word was, <hi>God with us;</hi> and he made it good: Theirs was <hi>Briſtoll,</hi> which they will make good, its like, and run from <hi>Bridgewater</hi> thi<g ref="char:EOLhyphen"/>ther.
+<pb n="8" facs="tcp:64049:5"/>Many of their men came running over to us, be<g ref="char:EOLhyphen"/>ing ſuch as <hi>Gerard</hi> had taken priſoners in <hi>Wales,</hi> and en<g ref="char:EOLhyphen"/>tertained; which ſhould make us more carefull in ta<g ref="char:EOLhyphen"/>king in the enemies priſoners: and if it be not carefully heeded, it may be juſtly believed, that, notwithſtanding the Covenant (the frequency of oaths having brought them to a formality, and Perjury being now grown fa<g ref="char:EOLhyphen"/>miliar; which it were to be wiſht were better thought on) Many of the priſoners taken at <hi>Naſeby</hi> we ſhall be conſtrained to fight with once again.</p>
+            <p>A little before this Engagement, Maſter <hi>Hollis,</hi> the Ambaſſadour ordinary of the Clubs, came to us with a ſecond Petition in the behalf of thoſe whom Colonel <hi>Ceely</hi> had taken priſoners at <hi>Lyme;</hi> That reparation might be given for the lives of ſome who were killed, and the liberties of others who were taken; otherwiſe very fairly they muſt betake themſelves to the adverſe party for juſtice. The General being going to the Field, or<g ref="char:EOLhyphen"/>dered him to ſtay at the Quarter, and he ſhould have an<g ref="char:EOLhyphen"/>ſwer at his return; which, God be thanked, we can give him, with Honour and Juſtice. The enemies remain<g ref="char:EOLhyphen"/>ders are at and about <hi>Bridgewater;</hi> our Head-Quarter at <hi>Middleſey,</hi> where our Officers are conſulting what is next to be done; for that is all the Queſtion with us. <hi>I pray God reſolve it, and direct us.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:64049:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
